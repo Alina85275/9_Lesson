@@ -1,0 +1,15 @@
+C:\Users\Alina\Desktop\9\9_Lesson\dz\bin\Debug\net6.0\dz.exe
+C:\Users\Alina\Desktop\9\9_Lesson\dz\bin\Debug\net6.0\dz.deps.json
+C:\Users\Alina\Desktop\9\9_Lesson\dz\bin\Debug\net6.0\dz.runtimeconfig.json
+C:\Users\Alina\Desktop\9\9_Lesson\dz\bin\Debug\net6.0\dz.dll
+C:\Users\Alina\Desktop\9\9_Lesson\dz\bin\Debug\net6.0\dz.pdb
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.csproj.AssemblyReference.cache
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.AssemblyInfoInputs.cache
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.AssemblyInfo.cs
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.csproj.CoreCompileInputs.cache
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.dll
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\refint\dz.dll
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.pdb
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\dz.genruntimeconfig.cache
+C:\Users\Alina\Desktop\9\9_Lesson\dz\obj\Debug\net6.0\ref\dz.dll
